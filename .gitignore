@@ -1,0 +1,5 @@
+out/*.safetensors
+out/*.bin
+out/pytorch_model.bin
+out/config.json
+out/*.pt
